@@ -1,0 +1,23 @@
+{
+  "name": "node-to-do-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivekviv999/Node-to-do-server.git"
+  },
+  "author": "vivek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vivekviv999/Node-to-do-server/issues"
+  },
+  "homepage": "https://github.com/Vivekviv999/Node-to-do-server#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
